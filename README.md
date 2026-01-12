@@ -49,9 +49,11 @@ User → CloudFront → S3 Bucket
     }
   ]
 }
+```
 
+---
 
-4️⃣ Create CloudFront Distribution
+### 4️⃣ Create CloudFront Distribution
 
 - Origin: S3 bucket
 - Viewer protocol policy: Redirect HTTP to HTTPS
