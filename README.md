@@ -4,6 +4,12 @@ This project demonstrates how to host a static website on AWS using **Amazon S3*
 
 ---
 
+## 📸 Website Screenshot
+
+![Website Hosted on AWS S3 + CloudFront](website-screenshot.png)
+
+---
+
 ## 🧰 Technologies Used
 - Amazon S3 (Static Website Hosting)
 - Amazon CloudFront (CDN)
